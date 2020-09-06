@@ -53,4 +53,4 @@ Defines the data objects. The objects should have 2 key-value pairs: Label and v
 ```
 
 ## License
-[MIT](LICENSE.md) Copyright [Rick A. Crist](https://github.com/rcrist)
+[MIT](LICENSE.md) © [Rick A. Crist](https://github.com/rcrist)
