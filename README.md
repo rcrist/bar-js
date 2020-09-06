@@ -20,14 +20,14 @@ Download the 'bar.min.js' and include it in your project
 ## Usage
 To create the bar chart, you need a block level container like a div or p.
 
-'''html
+```html
 <div id="chart">This will be a bar chart!</div>
-'''
+```
 Then you can create the BarChart object in your JavaScript file
 
-'''js
+```js
 var barChart = new BarChart(chartID, chartWidth, chartHeight, data);
-'''
+```
 
 ### Parameters
 - 'chartID = containerID (String)'
@@ -42,7 +42,7 @@ Defines the height of the chart like 400
 - 'data (Objects Array)'
 Defines the data objects. The objects should have 2 key-value pairs: Label and value. Example data:
 
-'''js
+```js
   var data = [
     {label: 'Jan', value: 123},
     {label: 'Feb', value: 11},
@@ -50,7 +50,7 @@ Defines the data objects. The objects should have 2 key-value pairs: Label and v
     {label: 'April', value: 893},
     {label: 'May', value: 343}
   ];
-'''
+```
 
 ## License
 [MIT](LICENSE.md) Copyright [Rick A. Crist](https://github.com/rcrist)
