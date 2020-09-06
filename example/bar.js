@@ -2,12 +2,12 @@
  *
  * bar.js
  * simple, elegant bar chart library
- * {date} - version 1.0
- * {url}
+ * 9/6/2020 - version 1.0
+ * https://github.com/rcrist/bar-js
  *
- * Copyright 2017 {your name}
+ * Copyright 2020 Rick A. Crist <rickcrist1@msn.com>
  * Relased under the MIT License
- * {license url}
+ * https://github.com/rcrist/bar-js/blob/master/LICENSE.md
  *
  */
 
